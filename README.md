@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Ankit Saini 👋
 
-<!--
-**AnkitS111/AnkitS111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌌 Aspiring Theoretical Physicist | Computational Researcher
+I am a Physics Honors student at Lovely Professional University, focused on the intersection of mathematical formalism and computational simulations.
 
-Here are some ideas to get you started:
+- 🔭 **Current Research:** Simulating high-energy particle interactions using **PYTHIA** and **ROOT**.
+- ⚛️ **Interests:** HEP Phenomenology, Theoretical Cosmology, and Stellar Evolution.
+- 🚀 **Leadership:** CEO of **UTTARA Astronomy Club**.
+- 🛠️ **Tech Stack:** C++, Python, R, Linux, ROOT, GEANT4.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### 📈 Research Highlights
+* **High Energy Physics:** Event generation and Standard Model phenomenology.
+* **Material Science:** Co-authored research on Deep Eutectic Solvents (ACS Publications).
+* **Machine Learning:** Satellite collision detection using XGBoost.
