@@ -1,12 +1,12 @@
 # Hi, I'm Ankit Saini 👋
 
 ### 🌌 Aspiring Theoretical Physicist | Computational Researcher
-I am a Physics Honors student at Lovely Professional University, focused on the intersection of mathematical formalism and computational simulations.
+I am a Physics Honors student at Lovely Professional University, focused on the theoretical astrophysics and cosmology and computational simulations in High energy physics phenomenology using dedicated CERN softwares.
 
 - 🔭 **Current Research:** Simulating high-energy particle interactions using **PYTHIA** and **ROOT**.
-- ⚛️ **Interests:** HEP Phenomenology, Theoretical Cosmology, and Stellar Evolution.
+- ⚛️ **Interests:** HEP Phenomenology, Theoretical Astrophysics & Cosmology, and Stellar Evolution.
 - 🚀 **Leadership:** CEO of **UTTARA Astronomy Club**.
-- 🛠️ **Tech Stack:** C++, Python, R, Linux, ROOT, GEANT4.
+- 🛠️ **Tech Stack:** C++, Python, R, Linux, ROOT, PYTHIA.
 
 ---
 ### 📈 Research Highlights
